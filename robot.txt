@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /admin/
+
+# Allow all other pages
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.bharathconnect.com/sitemap.xml
